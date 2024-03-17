@@ -1,0 +1,544 @@
+#EXTM3U
+#EXTINF:-1 , Awaz Tv HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/680.ts
+#EXTINF:-1 , KTN Entertainment 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/584.ts
+#EXTINF:-1 , Sindh TV HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/596.ts
+#EXTINF:-1 , Kashish TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/583.ts
+#EXTINF:-1 , Mehran Tv 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/613.ts
+#EXTINF:-1 , KTN NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/585.ts
+#EXTINF:-1 , Sindh TV News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/597.ts
+#EXTINF:-1 , TIME NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/598.ts
+#EXTINF:-1 , Bol News HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/16.ts
+#EXTINF:-1 , GEO NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/661.ts
+#EXTINF:-1 , Hum News HD
+https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
+#EXTINF:-1 , 24 News HD
+https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
+#EXTINF:-1 , 92 HD PLUS 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/18.ts
+#EXTINF:-1 , Samaa News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/10.ts
+#EXTINF:-1 , ARY NEWS 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/1.ts
+#EXTINF:-1 , Express News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/11.ts
+#EXTINF:-1 , Aaj News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/12.ts
+#EXTINF:-1 , Samaa News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/662.ts
+#EXTINF:-1 , Aik NEWS HD
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+#EXTINF:-1 , Lahore NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/665.ts
+#EXTINF:-1 , GNN NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/668.ts
+#EXTINF:-1 , PUBLIC NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/670.ts
+#EXTINF:-1 , GTV NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/673.ts
+#EXTINF:-1 , Capital TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/675.ts
+#EXTINF:-1 , Dunia News HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/13.ts
+#EXTINF:-1 , GNN News HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/15.ts
+#EXTINF:-1 , PTV World  
+http://ftv.fiberish.net.pk:80/live/myuser/1234/610.ts
+#EXTINF:-1 , Dawn News 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/20.ts
+#EXTINF:-1 , 7 NEWS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/647.ts
+#EXTINF:-1 , SUNO NEWS HD
+https://ythls.armelin.one/channel/UCB82Zom1MYh8VV4q7wXkfGA.m3u8
+
+#EXTINF:-1 , DD News HD
+http://ftv.fiberish.net.pk:80/live/myuser/1234/516.ts
+#EXTINF:-1 , DD India HD
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF:-1 , NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 , ABP News HD
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 , CNN NEWS 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 , Zee News
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+#EXTINF:-1 , Good News Today
+https://ythls.armelin.one/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8
+#EXTINF:-1 , BBC NEWS 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/203.ts
+#EXTINF:-1 , TRT World  
+http://ftv.fiberish.net.pk:80/live/myuser/1234/30.ts
+#EXTINF:-1 , Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 , Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 , Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 , EuroNews English 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/33.ts
+#EXTINF:-1 , DW News English 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/36.ts
+#EXTINF:-1 , Sky National 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/185.ts
+#EXTINF:-1 , France 24 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/192.ts
+#EXTINF:-1 , RT 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/193.ts
+#EXTINF:-1 , CGTN 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/197.ts
+#EXTINF:-1 , FOX NEWS ENGLISH 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/254.ts
+
+#EXTINF:-1 , Discover Pakistan
+http://ftv.fiberish.net.pk:80/live/myuser/1234/581.ts
+#EXTINF:-1 , Green Entertainment HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/634.ts
+#EXTINF:-1 , Bol Entertainment HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/55.ts
+#EXTINF:-1 , GEO Entertainment HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/56.ts
+#EXTINF:-1 , Hum Entertainment HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/660.ts
+#EXTINF:-1 , ARY Digital HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/57.ts
+#EXTINF:-1 , AurLife HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/641.ts
+#EXTINF:-1 , Aan Entertainment HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/650.ts
+#EXTINF:-1 , Urdu 1 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/656.ts
+#EXTINF:-1 , A Plus 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/236.ts
+#EXTINF:-1 , A1 TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/616.ts
+#EXTINF:-1 , Aaj Entertainment 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/50.ts
+#EXTINF:-1 , PTV HOME HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/51.ts
+#EXTINF:-1 , PLAY Entertainment 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/54.ts
+
+#EXTINF:-1 , SONY Entertainment HD
+http://ftv.fiberish.net.pk:80/live/myuser/1234/799.ts
+#EXTINF:-1 , SONY Pal 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/800.ts
+#EXTINF:-1 , SONY SAB HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/811.ts
+#EXTINF:-1 , Colors HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/821.ts
+#EXTINF:-1 , Star Gold Romance 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/803.ts
+#EXTINF:-1 , Star Gold Thrills 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/804.ts
+#EXTINF:-1 , Star Plus HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/819.ts
+#EXTINF:-1 , ZEE TV HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/822.ts
+#EXTINF:-1 , Star Bharat HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/826.ts
+#EXTINF:-1 , Star Gold HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/827.ts
+#EXTINF:-1 , Star Gold Select HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/833.ts
+#EXTINF:-1 , SONY MAX HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/835.ts
+#EXTINF:-1 , SONY MAX 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/838.ts
+#EXTINF:-1 , Star Gold 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/840.ts
+#EXTINF:-1 , ZEE TV HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/822.ts
+#EXTINF:-1 , Shemaroo TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/801.ts
+#EXTINF:-1 , Zing 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/557.ts
+#EXTINF:-1 , Dangal 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/502.ts
+#EXTINF:-1 , Film World 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/564.ts
+#EXTINF:-1 , ZEE Cinema HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/820.ts
+#EXTINF:-1 , Classic Bollywood HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/277.ts
+#EXTINF:-1 , Manoranjan Movies 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/317.ts
+#EXTINF:-1 , Colors Cineplex Bollywood 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/464.ts
+#EXTINF:-1 , B4U Bhojpuri 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/453.ts
+#EXTINF:-1 , B4U Movies 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/455.ts
+#EXTINF:-1 , Cinema Three TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/562.ts
+#EXTINF:-1 , Goldmines 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/510.ts
+#EXTINF:-1 , Goldmines Bollywood 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/511.ts
+#EXTINF:-1 , Manoranjan Grand 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/515.ts
+
+#EXTINF:-1 , Hadi TV 1 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/617.ts
+#EXTINF:-1 , Madani TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/618.ts
+#EXTINF:-1 , Karbala TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/672.ts
+#EXTINF:-1 , Ahlebait 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/604.ts
+#EXTINF:-1 , ARY QTV (HD)
+http://ftv.fiberish.net.pk:80/live/myuser/1234/65.ts
+#EXTINF:-1 , Al Sunnat Al Nabvi ( MADINAH ) 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/571.ts
+#EXTINF:-1 , Al Quran Al Kareem ( MAKKAH ) 
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 , Quran Tv 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/570.ts
+#EXTINF:-1 , Peact Tv URDU 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/590.ts
+#EXTINF:-1 , Peact Tv ENGLISH 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/592.ts
+#EXTINF:-1 , Madani TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/427.ts
+#EXTINF:-1 , Al Quran Radio 
+https://edge.taghtia.com/sa/13.m3u8
+
+#EXTINF:-1 , Al Saudiya TV
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 , SBC 
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 , Channel 24 Saudi
+https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8
+#EXTINF:-1 , Zikriyat
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 , Abu Dhabi TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 , Al Emarat TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 , Al Ekhbariya
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 , Al Hadath Tv
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 , Al Arabiya 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/189.ts
+#EXTINF:-1 , Al Iraqiya
+http://ftv.fiberish.net.pk:80/live/myuser/1234/200.ts
+#EXTINF:-1 , Al Rasheed HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/412.ts
+#EXTINF:-1 , Sharqiya News
+http://ftv.fiberish.net.pk:80/live/myuser/1234/413.ts
+#EXTINF:-1 , Dijlah Tv
+http://ftv.fiberish.net.pk:80/live/myuser/1234/414.ts
+#EXTINF:-1 , Al Iraqiya News
+http://ftv.fiberish.net.pk:80/live/myuser/1234/201.ts
+#EXTINF:-1 , MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 , MBC 3 EUROPE
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 , MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 , MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 , MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 , MBC Drama KSA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 , MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 , MBC Fm
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 , MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 , Dubai Sports 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/108.ts
+#EXTINF:-1 , Dubai SPORTS 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/256.ts
+#EXTINF:-1 , Dubai SPORTS 3 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/257.ts
+#EXTINF:-1 , Al Bahrain Sports 1 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/382.ts
+
+#EXTINF:-1 , Fast Sports HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/625.ts
+#EXTINF:-1 , GEO SUPER 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/602.ts
+#EXTINF:-1 , PTV SPORTS HD
+http://ftv.fiberish.net.pk:80/live/myuser/1234/733.ts
+#EXTINF:-1 , TEN SPORTS FHD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/688.ts
+#EXTINF:-1 , A SPORTS FHD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/734.ts
+#EXTINF:-1 , STARZPLAY CricLife 1 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/685.ts
+#EXTINF:-1 , Astro Cricket 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/730.ts
+#EXTINF:-1 , SKY Sports Cricket 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/731.ts
+#EXTINF:-1 , DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 , Star Sports 1 HINDI HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/844.ts
+#EXTINF:-1 , Star Sports 2 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/882.ts
+#EXTINF:-1 , Star Sports 1 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/829.ts
+#EXTINF:-1 , Star Sports 2 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/828.ts
+#EXTINF:-1 , Star Sports Select 1 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/831.ts
+#EXTINF:-1 , Star Sports Select 2 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/830.ts
+#EXTINF:-1 , Willow HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/729.ts
+#EXTINF:-1 , Willow Extra 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/732.ts
+#EXTINF:-1 , SONY Sports 1 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/834.ts
+#EXTINF:-1 , SONY Sports 2 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/842.ts
+#EXTINF:-1 , SONY Sports 3 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/825.ts
+#EXTINF:-1 , SONY Sports 4 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/843.ts
+#EXTINF:-1 , SONY Sports 5 HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/836.ts
+#EXTINF:-1 , A Spor 
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 , S ACTION 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/698.ts
+#EXTINF:-1 , MT SPORTS HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/37.ts
+#EXTINF:-1 , S Sports TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/220.ts
+#EXTINF:-1 , RACING.COM 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/224.ts
+#EXTINF:-1 , MS MOTOR TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/239.ts
+#EXTINF:-1 , H&C 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/303.ts
+#EXTINF:-1 , Billiard TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/281.ts
+#EXTINF:-1 , WWE TV
+http://ftv.fiberish.net.pk:80/live/myuser/1234/285.ts
+#EXTINF:-1 , BOXING TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/288.ts
+#EXTINF:-1 , TENNIS LIVE 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/305.ts
+#EXTINF:-1 , Bike Channel 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/392.ts
+#EXTINF:-1 , TRACE SPORTS STARS 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/311.ts
+#EXTINF:-1 , Omni Moto GP 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/422.ts
+#EXTINF:-1 , Ten Sports FHD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/424.ts
+
+#EXTINF:-1 , Hungama TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/808.ts
+#EXTINF:-1 , Nick HINDI 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/809.ts
+#EXTINF:-1 , Nick HD+ 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/810.ts
+#EXTINF:-1 , Cartoon Network 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/608.ts
+#EXTINF:-1 , POGO TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/797.ts
+#EXTINF:-1 , Cartoon Network HINDI 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/775.ts
+#EXTINF:-1 , Hoora TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/566.ts
+#EXTINF:-1 , MiniMax TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/567.ts
+#EXTINF:-1 , SONY YAY HINDI 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/859.ts
+#EXTINF:-1 , SHD Kids Zone 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/612.ts
+#EXTINF:-1 , MoonBug 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/757.ts
+#EXTINF:-1 , NickJr. 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/760.ts
+#EXTINF:-1 , Nickelodeon 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/761.ts
+#EXTINF:-1 , Planet Fun 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/569.ts
+#EXTINF:-1 , Junior TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/237.ts
+#EXTINF:-1 , EBS Kids KOREAN 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/386.ts
+#EXTINF:-1 , Junior TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/415.ts
+
+#EXTINF:-1 , FailArmy 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/318.ts
+#EXTINF:-1 , PROPLE ARE AWESOME --- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/294.ts
+#EXTINF:-1 , FUNNY TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/377.ts
+#EXTINF:-1 , The AFV Family Channel 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/378.ts
+
+#EXTINF:-1 , Masti Music TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/4.ts
+#EXTINF:-1 , 9XM 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/151.ts
+#EXTINF:-1 , E24 Music 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/322.ts
+#EXTINF:-1 , Masti HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/521.ts
+#EXTINF:-1 , MTV BEATS HD
+http://ftv.fiberish.net.pk:80/live/myuser/1234/259.ts
+#EXTINF:-1 , B4U Music 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/456.ts
+#EXTINF:-1 , ZETA Music 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/261.ts
+#EXTINF:-1 , DEE JAY 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/262.ts
+#EXTINF:-1 , VIIB Music 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/270.ts
+#EXTINF:-1 , Joo Music 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/272.ts
+
+#EXTINF:-1 , EKAT TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/329.ts
+#EXTINF:-1 , Brat TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/302.ts
+#EXTINF:-1 , RTL (UNKNOWN) 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/355.ts
+#EXTINF:-1 , RTL 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/117.ts
+#EXTINF:-1 , RTL 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/287.ts
+#EXTINF:-1 , SUPER Spanish 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/70.ts
+#EXTINF:-1 , Dove Channel 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/292.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/293.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/295.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/307.ts
+#EXTINF:-1 , English--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/195.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/205.ts
+#EXTINF:-1 , Dubai One 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/207.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/223.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/326.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/327.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/271.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/416.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/417.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/418.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/419.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/420.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/421.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/372.ts
+#EXTINF:-1 , Rakuten TV 1 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/402.ts
+#EXTINF:-1 , Rakuten TV 2 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/404.ts
+#EXTINF:-1 , Rakuten TV 3 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/405.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/709.ts
+#EXTINF:-1 , Cartoon--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/710.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/711.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/713.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/714.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/715.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/716.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/717.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/718.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/719.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/720.ts
+
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/385.ts
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/387.ts
+#EXTINF:-1 , SUPER Spanish 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/391.ts
+#EXTINF:-1 , BayWATCH 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/383.ts
+#EXTINF:-1 , ENGLISH--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/384.ts
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/385.ts
+#EXTINF:-1 , TORONTO 360 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/371.ts
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/367.ts
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/308.ts
+#EXTINF:-1 , UNKNOWN--- 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/310.ts
+
+#EXTINF:-1 , Bloomberg 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/28.ts
+#EXTINF:-1 , SONY BBC Earth HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/841.ts
+#EXTINF:-1 , TravelXP 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/216.ts
+#EXTINF:-1 , Discovery Turbo 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/782.ts
+#EXTINF:-1 , FOX Life HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/785.ts
+#EXTINF:-1 , NATIONAL GEOGRAPHIC HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/795.ts
+#EXTINF:-1 , NATIONAL GEOGRAPHIC WILD HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/796.ts
+#EXTINF:-1 , NASA TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/349.ts
+#EXTINF:-1 , Discovery HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/741.ts
+#EXTINF:-1 , RedBull TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/284.ts
+#EXTINF:-1 , PLUTO TV 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/354.ts
+#EXTINF:-1 , TravelXP 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/312.ts
+#EXTINF:-1 , National Geographics 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/191.ts
+#EXTINF:-1 , NATIONAL GEOGRAPHIC WILD EARTH 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/314.ts
+#EXTINF:-1 , Discovery Science  
+http://ftv.fiberish.net.pk:80/live/myuser/1234/781.ts
+#EXTINF:-1 , Animal Planet HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/743.ts
+#EXTINF:-1 , Discovery HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/780.ts
+#EXTINF:-1 , Discovery HINDI HD 
+http://ftv.fiberish.net.pk:80/live/myuser/1234/331.ts
